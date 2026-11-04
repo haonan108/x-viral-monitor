@@ -1,0 +1,510 @@
+{
+  "checked_at_utc": "2026-11-04T06:08:58Z",
+  "checked_at_shanghai": "2026-11-04 14:08:58 UTC+08:00",
+  "threshold": 1000,
+  "is_baseline_6am": false,
+  "kept_count": 29,
+  "hit_ids": [
+    "2117850488343564777"
+  ],
+  "hit_lines": [
+    "@MinLiBuilds [🍉 怪不得最近感觉 Tibo 越来越不对劲，原来这家伙早就给我们打过预防针了。](https://x.com/MinLiBuilds/status/2117850488343564777) · 浏览 1285 · 每小时 +1739 · 赞 6 / 转发 0 / 书签 1 · 2026-11-04 13:24 CST"
+  ],
+  "posts": [
+    {
+      "user": "MinLiBuilds",
+      "id": "2117850488343564777",
+      "views": 1285,
+      "created_at": "2026-11-04T05:24:38Z",
+      "likes": 6,
+      "rts": 0,
+      "bookmarks": 1,
+      "text": "🍉 怪不得最近感觉 Tibo 越来越不对劲，原来这家伙早就给我们打过预防针了。"
+    },
+    {
+      "user": "MinLiBuilds",
+      "id": "2117832419579773334",
+      "views": 1361,
+      "created_at": "2026-11-04T04:12:50Z",
+      "likes": 9,
+      "rts": 1,
+      "bookmarks": 9,
+      "text": "为沉浸式翻译哀悼 3 秒。😂"
+    },
+    {
+      "user": "MinLiBuilds",
+      "id": "2117830292069318827",
+      "views": 586,
+      "created_at": "2026-11-04T04:04:23Z",
+      "likes": 3,
+      "rts": 0,
+      "bookmarks": 1,
+      "text": "😲 柯南那个模仿毛利小五郎的变声器，现实中真给造出来了。"
+    },
+    {
+      "user": "MinLiBuilds",
+      "id": "2117776475202162815",
+      "views": 1462,
+      "created_at": "2026-11-04T00:30:32Z",
+      "likes": 4,
+      "rts": 0,
+      "bookmarks": 2,
+      "text": "🚨 百度反击了。宣布搜索 API 比 Deepseek 便宜一毛。"
+    },
+    {
+      "user": "MinLiBuilds",
+      "id": "2117770249894514981",
+      "views": 14071,
+      "created_at": "2026-11-04T00:05:48Z",
+      "likes": 28,
+      "rts": 0,
+      "bookmarks": 12,
+      "text": "Claude Code 的产品负责人 Cat Wu 走了。当今最重量级的产品经理 🫡"
+    },
+    {
+      "user": "MinLiBuilds",
+      "id": "2117640066977976485",
+      "views": 1807,
+      "created_at": "2026-11-03T15:28:30Z",
+      "likes": 7,
+      "rts": 3,
+      "bookmarks": 1,
+      "text": "😭 天价学费，63 亿美元！看完币安这次安全事件的复盘，发现这套社会工程学真有点可怕。"
+    },
+    {
+      "user": "MinLiBuilds",
+      "id": "2117620912032006478",
+      "views": 4672,
+      "created_at": "2026-11-03T14:12:23Z",
+      "likes": 6,
+      "rts": 0,
+      "bookmarks": 5,
+      "text": "太艹了，哈哈，以前觉得小璐演技好 🤔"
+    },
+    {
+      "user": "MinLiBuilds",
+      "id": "2117613007006310648",
+      "views": 2223,
+      "created_at": "2026-11-03T13:40:58Z",
+      "likes": 4,
+      "rts": 0,
+      "bookmarks": 0,
+      "text": "哈哈， 500年前拜妈祖出海保平安，500年后出海靠老马保信号。"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117827806734557226",
+      "views": 2192,
+      "created_at": "2026-11-04T03:54:31Z",
+      "likes": 12,
+      "rts": 0,
+      "bookmarks": 10,
+      "text": "🎉牛逼！ VPS 上的 Hermes 也能接上手机里的数据了！"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117769041284927505",
+      "views": 13015,
+      "created_at": "2026-11-04T00:01:00Z",
+      "likes": 41,
+      "rts": 4,
+      "bookmarks": 30,
+      "text": "🤣听说你们都在抢 Grok bot 每天那点可怜的 Opus 5.5 额度？"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117650852517462263",
+      "views": 10222,
+      "created_at": "2026-11-03T16:11:21Z",
+      "likes": 22,
+      "rts": 2,
+      "bookmarks": 14,
+      "text": "🎉好消息！Hermes 移动端 双端放开内测名额了"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117646232222863411",
+      "views": 13439,
+      "created_at": "2026-11-03T15:53:00Z",
+      "likes": 16,
+      "rts": 2,
+      "bookmarks": 14,
+      "text": "🔥 补充回答大家最关心的两个关于 Hermes 移动端 的问题："
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117633649332109416",
+      "views": 22024,
+      "created_at": "2026-11-03T15:03:00Z",
+      "likes": 73,
+      "rts": 7,
+      "bookmarks": 114,
+      "text": "🎉搞定！介绍下 手机上的 Hermes 如何连接到VPS"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117622783052304723",
+      "views": 32188,
+      "created_at": "2026-11-03T14:19:49Z",
+      "likes": 541,
+      "rts": 72,
+      "bookmarks": 723,
+      "text": "🎉 开源音频模型变天了！"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117593249590473008",
+      "views": 5001,
+      "created_at": "2026-11-03T12:22:28Z",
+      "likes": 16,
+      "rts": 1,
+      "bookmarks": 2,
+      "text": "我和 OpenAI 目前的关系：全靠半价 Plus 的 深情挽留了"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117577392650883363",
+      "views": 50881,
+      "created_at": "2026-11-03T11:19:27Z",
+      "likes": 503,
+      "rts": 72,
+      "bookmarks": 541,
+      "text": "🎉太牛了！简直神器！"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117551104917487628",
+      "views": 46982,
+      "created_at": "2026-11-03T09:35:00Z",
+      "likes": 90,
+      "rts": 22,
+      "bookmarks": 58,
+      "text": "🔥 兄弟们！你们心心念念的「🐳鲸鱼娘」来了！（提示词见评论区）"
+    },
+    {
+      "user": "Lonely__MH",
+      "id": "2117507981986382321",
+      "views": 7714,
+      "created_at": "2026-11-03T06:43:38Z",
+      "likes": 10,
+      "rts": 0,
+      "bookmarks": 2,
+      "text": "🔥 OpenAI 预告新模型"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117858964117520886",
+      "views": 50,
+      "created_at": "2026-11-04T05:58:19Z",
+      "likes": 2,
+      "rts": 0,
+      "bookmarks": 0,
+      "text": "你要么自己成为创作者，要么付钱给创作者，要么为创作者工作来获得报酬。"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117842454485565908",
+      "views": 312,
+      "created_at": "2026-11-04T04:52:43Z",
+      "likes": 3,
+      "rts": 0,
+      "bookmarks": 2,
+      "text": "我靠！这么好的文章为什么现在才推给我😱"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117819120880353622",
+      "views": 643,
+      "created_at": "2026-11-04T03:20:00Z",
+      "likes": 4,
+      "rts": 0,
+      "bookmarks": 2,
+      "text": "刚刚说完最好的学习方式就是拆片，就有人帮我们把最好的片子精选出来了！"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117806537913536808",
+      "views": 275,
+      "created_at": "2026-11-04T02:30:00Z",
+      "likes": 5,
+      "rts": 0,
+      "bookmarks": 0,
+      "text": "Codex和Claude一个很大的区别就是原则性！"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117783893906784260",
+      "views": 793,
+      "created_at": "2026-11-04T01:00:01Z",
+      "likes": 9,
+      "rts": 0,
+      "bookmarks": 5,
+      "text": "都说做视频到最后拼的是审美，那审美这么提升？"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117672988678209948",
+      "views": 3236,
+      "created_at": "2026-11-03T17:39:19Z",
+      "likes": 40,
+      "rts": 5,
+      "bookmarks": 46,
+      "text": "这种风格感觉就是为小红书定制的啊！"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117621887912288546",
+      "views": 1912,
+      "created_at": "2026-11-03T14:16:16Z",
+      "likes": 13,
+      "rts": 2,
+      "bookmarks": 6,
+      "text": "Workbuddy目前在国内无敌啊，深度嵌入办公领域。"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117580488567406794",
+      "views": 12314,
+      "created_at": "2026-11-03T11:31:45Z",
+      "likes": 68,
+      "rts": 5,
+      "bookmarks": 48,
+      "text": "《Escape·逃离》"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117537263467008349",
+      "views": 1537,
+      "created_at": "2026-11-03T08:40:00Z",
+      "likes": 7,
+      "rts": 0,
+      "bookmarks": 6,
+      "text": "这也太顶了，AI出图直达单反相机的质感！"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117518514403918159",
+      "views": 940,
+      "created_at": "2026-11-03T07:25:30Z",
+      "likes": 4,
+      "rts": 0,
+      "bookmarks": 7,
+      "text": "我靠！WorkBuddy这下真的玩明白了！"
+    },
+    {
+      "user": "EianLu",
+      "id": "2117505349175611513",
+      "views": 900,
+      "created_at": "2026-11-03T06:33:11Z",
+      "likes": 4,
+      "rts": 0,
+      "bookmarks": 0,
+      "text": "说今天就要发布了，是真的不？"
+    }
+  ],
+  "rates": [
+    {
+      "id": "2117551104917487628",
+      "user": "Lonely__MH",
+      "rate": 2746.18,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117770249894514981",
+      "user": "MinLiBuilds",
+      "rate": 2449.45,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117577392650883363",
+      "user": "Lonely__MH",
+      "rate": 2082.85,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117622783052304723",
+      "user": "Lonely__MH",
+      "rate": 2058.92,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117850488343564777",
+      "user": "MinLiBuilds",
+      "rate": 1739.1,
+      "mode": "first",
+      "hours": 0.7389
+    },
+    {
+      "id": "2117769041284927505",
+      "user": "Lonely__MH",
+      "rate": 1547.78,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117633649332109416",
+      "user": "Lonely__MH",
+      "rate": 1354.43,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117832419579773334",
+      "user": "MinLiBuilds",
+      "rate": 710.24,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117672988678209948",
+      "user": "EianLu",
+      "rate": 690.14,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117827806734557226",
+      "user": "Lonely__MH",
+      "rate": 528.37,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117646232222863411",
+      "user": "Lonely__MH",
+      "rate": 492.95,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117650852517462263",
+      "user": "Lonely__MH",
+      "rate": 356.08,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117580488567406794",
+      "user": "EianLu",
+      "rate": 350.33,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117858964117520886",
+      "user": "EianLu",
+      "rate": 281.69,
+      "mode": "first",
+      "hours": 0.1775
+    },
+    {
+      "id": "2117620912032006478",
+      "user": "MinLiBuilds",
+      "rate": 233.55,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117842454485565908",
+      "user": "EianLu",
+      "rate": 232.6,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117830292069318827",
+      "user": "MinLiBuilds",
+      "rate": 195.27,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117819120880353622",
+      "user": "EianLu",
+      "rate": 127.31,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117507981986382321",
+      "user": "Lonely__MH",
+      "rate": 93.8,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117621887912288546",
+      "user": "EianLu",
+      "rate": 76.58,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117613007006310648",
+      "user": "MinLiBuilds",
+      "rate": 73.7,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117593249590473008",
+      "user": "Lonely__MH",
+      "rate": 65.09,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117776475202162815",
+      "user": "MinLiBuilds",
+      "rate": 62.22,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117783893906784260",
+      "user": "EianLu",
+      "rate": 61.26,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117806537913536808",
+      "user": "EianLu",
+      "rate": 48.82,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117640066977976485",
+      "user": "MinLiBuilds",
+      "rate": 31.59,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117537263467008349",
+      "user": "EianLu",
+      "rate": 26.8,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117518514403918159",
+      "user": "EianLu",
+      "rate": 19.14,
+      "mode": "delta",
+      "hours": 1.0447
+    },
+    {
+      "id": "2117505349175611513",
+      "user": "EianLu",
+      "rate": 14.36,
+      "mode": "delta",
+      "hours": 1.0447
+    }
+  ]
+}
