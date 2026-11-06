@@ -1,5 +1,5 @@
 {
-  "note": "Hourly X watch state. snapshots: post_id -> {views, checked_at UTC}. pushed: post ids already sent to user.",
+  "note": "Hourly X watch state. snapshots: post_id -> {views, checked_at UTC}. pushed: post ids already sent to user. 2026-11-06T03:13Z partial: get_users_posts/search_posts_all 503; refreshed known ids via get_posts_by_ids only.",
   "accounts": {
     "MinLiBuilds": "1679698342283186177",
     "Lonely__MH": "2926712868",
@@ -7,104 +7,100 @@
   },
   "snapshots": {
     "2118507306132652473": {
-      "views": 1837,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 6977,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118504881258639558": {
-      "views": 785,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 1441,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118393756407992611": {
-      "views": 1531,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 1710,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118387407901106417": {
-      "views": 1600,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 1834,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118352598264860792": {
-      "views": 30276,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 32752,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118337998437888476": {
-      "views": 145788,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 161634,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118224966059794721": {
-      "views": 101690,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 103190,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118188301123514550": {
-      "views": 122430,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 124814,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118497638349938938": {
-      "views": 6910,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 14376,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118392507457532004": {
-      "views": 1596,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 1853,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118383990566682912": {
-      "views": 2397,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 2594,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118345531256951088": {
-      "views": 3665,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 3810,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118320450640269398": {
-      "views": 8779,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 9459,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118319043388309704": {
-      "views": 85430,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 93743,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118271733056872560": {
-      "views": 98417,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 98642,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118206663878672793": {
-      "views": 14004,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 14605,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118508665292603776": {
-      "views": 2049,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 3467,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118493569950589386": {
-      "views": 4610,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 8231,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118365964723245216": {
-      "views": 13382,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 14252,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118317430665613741": {
-      "views": 1762302,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 1876152,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118260707645120753": {
-      "views": 8467,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 8901,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118228592832532587": {
-      "views": 6153,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 6462,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118198901719343168": {
-      "views": 4809,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 5104,
+      "checked_at": "2026-11-06T03:12:59Z"
     },
     "2118186338520535420": {
-      "views": 3633,
-      "checked_at": "2026-11-06T02:19:39Z"
-    },
-    "2118168927687876745": {
-      "views": 4226,
-      "checked_at": "2026-11-06T02:19:39Z"
+      "views": 3864,
+      "checked_at": "2026-11-06T03:12:59Z"
     }
   },
   "pushed": [
